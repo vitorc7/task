@@ -21,3 +21,5 @@ Thumbs.db
 .*.swp
 *.xls;xlsx;csv
 /bin/
+
+.config.properties
